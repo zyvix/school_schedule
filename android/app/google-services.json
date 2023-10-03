@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542102794245",
+    "project_id": "schoolschedule-4e89e",
+    "storage_bucket": "schoolschedule-4e89e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542102794245:android:0b84afd9583ae3ce0fac6c",
+        "android_client_info": {
+          "package_name": "com.example.school_schedule_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YVGlAIQ2Kh_iY-1lf6Wu_NKrqQmILw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
